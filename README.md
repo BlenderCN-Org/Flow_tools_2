@@ -6,3 +6,6 @@ An more up to date version will be available soon.
 
 Check my [facebook](https://www.facebook.com/JeanModeler)(portuguese) page to know what I am doing!
 Or if you wanna support the creation of this addon, please consider buying it on [Blender Market](https://www.blendermarket.com/products/sculpttkt---a-tool-kit-for-sculptors), I am literaly coding this alone by now and really glad your support.
+
+
+[B站](https://www.bilibili.com/video/av21627895)
